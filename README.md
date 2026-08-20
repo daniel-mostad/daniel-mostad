@@ -7,28 +7,44 @@
 + designer & builder of production software people use every day
 ```
 
-<img src="assets/sec-highlights.svg" alt="~/github $ cat ~/highlights" width="100%">
+### `$ cat ~/highlights`
 
 **[Visma InSchool help center](https://inschool.zendesk.com/hc/no) — redesigned end-to-end, live in production.**\
-I worked on the redesign from the first Figma drafts to the shipped product — talking with users, iterating with stakeholders, applying what I learned about UX/UI, and building the new Zendesk Guide theme from scratch. It now serves InSchool's users across Norway.
+From the first Figma drafts through user conversations and stakeholder reviews to a new Zendesk Guide theme built from scratch, now serving InSchool's users across Norway.
 
-**Visma Flyt — the welfare platform team.**\
-Fullstack (C#/.NET + Angular) on the platform Norwegian municipalities lean on for welfare work — where there's chaos, we help. Production code, strict reviews, real users with real stakes.
+**Visma Flyt — welfare tech for Norwegian municipalities.**\
+Fullstack on the team (C#/.NET + Angular) — production code, strict reviews, real users with real stakes. Where there's chaos, we help.
 
-**jira-mcp — tooling my colleagues actually use.**\
-An MCP server for Jira and Confluence that I designed and built on my own initiative. Developers across Visma run it in their daily workflow. Private, for now.
+**jira-mcp — tooling my colleagues use daily.**\
+An MCP server for Jira and Confluence, designed and built on my own initiative. Private, for now.
 
-**Ungdomsbedrift — a fullstack product with ~1,500 users.**\
-Co-founded a student-run company (Ungdomsbedrift) as its core developer — I wrote all the code, a fullstack product from frontend to backend, while teammates ran finances and operations, and I helped sell it from our booth at the event. We grew to around 1,500 users and placed 3rd in the vocational company category at Buskerud's county championship for student companies.
+**Ungdomsbedrift — ~1,500 users as a student company.**\
+I wrote all the code for our fullstack product while teammates ran finances and operations; we placed 3rd in the vocational category at Buskerud's county championship.
 
 **[zingico.com](https://zingico.com) — my site, my stack, my server.**\
-Designed, built, and self-hosted end-to-end: Vue 3 frontend, Rust/Axum backend, MySQL, Redis, nginx — the whole pipeline from Figma to my own infrastructure.
+Vue 3 + Rust/Axum + MySQL/Redis behind nginx — designed, built, and self-hosted end-to-end.
 
-<img src="assets/status.svg" alt="~/github $ git status — On branch now. Changes not staged for commit: zingico.com (building it into a community, not just a portfolio), open-source (moving more of my private work into the open), craft (going deeper on rust, design, and systems that last)." width="100%">
+### `$ git status`
 
-<img src="assets/toolbox.svg" alt="~/github $ ls ~/toolbox — languages: TypeScript, C#, Rust, Python, SQL · frontend: Vue 3, Angular, Tailwind, Vite · backend: .NET, Axum, Node/Express, MySQL/Postgres, Redis · infra: Docker, nginx, GitHub Actions, MinIO/S3, OpenTelemetry · design: Figma, Blender, Adobe Illustrator/Photoshop/Premiere" width="100%">
+```
+On branch now
+Changes not staged for commit:
+        modified:   zingico.com    → building it into a community, not just a portfolio
+        modified:   open-source    → moving more of my private work into the open
+        modified:   craft          → going deeper on rust, design, and systems that last
+```
 
-<img src="assets/sec-public.svg" alt="~/github $ ls ~/public" width="100%">
+### `$ ls ~/toolbox`
+
+```
+languages   TypeScript · C# · Rust · Python · SQL
+frontend    Vue 3 · Angular · Tailwind · Vite
+backend     .NET · Axum · Node/Express · MySQL/Postgres · Redis
+infra       Docker · nginx · GitHub Actions · MinIO/S3 · OpenTelemetry
+design      Figma · Blender · Adobe Illustrator/Photoshop/Premiere
+```
+
+### `$ ls ~/public`
 
 [**aranea-rete**](https://github.com/DanielOM999/Aranea-Rete) — TF-IDF web search engine in Node/TS/Postgres, with polite crawling\
 [**klp-bank**](https://github.com/DanielOM999/KLP-bank) — banking prototype: accounts, transactions, financial visualization\
@@ -40,8 +56,6 @@ Designed, built, and self-hosted end-to-end: Vue 3 frontend, Rust/Axum backend, 
 <!--fortune-->
 <img src="assets/fortune.svg" alt="fortune: People who are really serious about software should make their own hardware. — Alan Kay" width="100%">
 <!--/fortune-->
-
-<img src="assets/sec-contact.svg" alt="~/github $ cat ~/.contact" width="100%">
 
 Open to collaborating — especially on web platforms, developer tooling, and design-heavy frontends. Reach me through [**zingico.com**](https://zingico.com), where the full experience lives.
 
