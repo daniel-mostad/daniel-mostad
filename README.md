@@ -1,35 +1,32 @@
-<img src="assets/header.svg" alt="daniel@zingico:~$ ./whoami --human — DANIEL OLOV MOSTAD, fullstack developer, builds zingico.com" width="100%">
+<img src="assets/header.svg" alt="~/github $ git log --author=daniel — DANIEL spelled in contribution squares. DanielOM999, fullstack apprentice at Visma. C#/.NET by day, Vue + Rust by night." width="100%">
 
-```jsonc
-// GET zingico.com/api/daniel — 200 OK
-{
-  "role":     "fullstack developer — apprentice @ Visma",
-  "based":    "Norway",
-  "daylight": ["C#", ".NET", "Angular"],       // the work stack
-  "midnight": ["TypeScript", "Vue", "Rust"],   // my stack
-  "belief":   "I create because I have to"
-}
+```diff
+@@ 2024 → 2026 @@
+- vocational IT student — next.js tutorials, supabase experiments
++ fullstack apprentice @ Visma — C#/.NET + Angular on a welfare platform
++ after hours: vue 3 + rust/axum, self-hosted and oversecured at zingico.com
 ```
 
-### `$ curl -s zingico.com/api/projects`
+### `$ git log --oneline`
 
-`200 OK` — [**zingico.com**](https://zingico.com) · the portfolio itself. Vue 3 + Rust/Axum, self-hosted, oversecured for sport, Lighthouse chased into the 100s.\
-`201 Created` — **jira-mcp** · an MCP server for Jira/Confluence that colleagues at Visma run daily. Private, for now.\
-`200 OK` — [**Aranea Rete**](https://github.com/DanielOM999/Aranea-Rete) · a TF-IDF web search engine that respects robots.txt.\
-`200 OK` — [**KLP Bank**](https://github.com/DanielOM999/KLP-bank) · banking prototype — accounts, transactions, financial viz.\
-`410 Gone` — **SwiftBinder** · large-file storage & sharing. Deprecated. Lessons extracted.
-
-### `$ tail -f /var/log/now.log`
-
-```log
-[ ok ] shipping C#/.NET + Angular on a welfare platform at Visma, by day
-[ ok ] rebuilding my corner of the internet in Rust, by night
-[ ok ] hunting the last Lighthouse point on zingico.com
-[ .. ] teaching a terminal-themed portfolio to explain itself to non-devs
+```
+9f31c02 (HEAD -> now) rewrite my site's backend in rust — the borrow checker builds character
+c84d1f7 build jira-mcp, an MCP server for jira/confluence — colleagues at visma run it daily
+5b20e94 chase lighthouse to 100 on zingico.com — the last point is always the expensive one
+15a8b03 sign apprenticeship @ visma — real codebase, real reviews, real users
+a3f9c21 teach a search engine to respect robots.txt
+0000001 (root-commit) I create because I have to
 ```
 
-### `$ echo $CONTACT`
+### `$ ls ~/public`
 
-Everything worth seeing lives at [**zingico.com**](https://zingico.com) — it has an uptime counter that has been running since the day I was born.
+[**aranea-rete**](https://github.com/DanielOM999/Aranea-Rete) — TF-IDF web search engine in Node/TS/Postgres, with polite crawling\
+[**klp-bank**](https://github.com/DanielOM999/KLP-bank) — banking prototype: accounts, transactions, financial visualization\
+[**vpn---python**](https://github.com/DanielOM999/VPN---Python) — a VPN from scratch, to understand tunneling instead of trusting it\
+[**rabbidisc**](https://github.com/DanielOM999/RabbiDisc) — bluetooth device discovery and tracking with python/bleak
 
-<sub><code>daniel@zingico:~$ exit</code> · connection to zingico closed.</sub>
+<sub>The best work (zingico.com's Rust+Vue engine, jira-mcp, a Chrome extension manager) is still in private repos — public releases are coming.</sub>
+
+### `$ cat ~/.contact`
+
+The full experience lives at [**zingico.com**](https://zingico.com).
