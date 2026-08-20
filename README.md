@@ -7,7 +7,7 @@
 + designer & builder of production software people use every day
 ```
 
-### `$ cat ~/highlights`
+<img src="assets/sec-highlights.svg" alt="~/github $ cat ~/highlights" width="100%">
 
 **[Visma InSchool help center](https://inschool.zendesk.com/hc/no) — redesigned end-to-end, live in production.**\
 I worked on the redesign from the first Figma drafts to the shipped product — talking with users, iterating with stakeholders, applying what I learned about UX/UI, and building the new Zendesk Guide theme from scratch. It now serves InSchool's users across Norway.
@@ -24,27 +24,11 @@ Co-founded a student-run company (Ungdomsbedrift) as its core developer — I wr
 **[zingico.com](https://zingico.com) — my site, my stack, my server.**\
 Designed, built, and self-hosted end-to-end: Vue 3 frontend, Rust/Axum backend, MySQL, Redis, nginx — the whole pipeline from Figma to my own infrastructure.
 
-### `$ git status`
+<img src="assets/status.svg" alt="~/github $ git status — On branch now. Changes not staged for commit: zingico.com (building it into a community, not just a portfolio), open-source (moving more of my private work into the open), craft (going deeper on rust, design, and systems that last)." width="100%">
 
-```
-On branch now
-Changes not staged for commit:
-        modified:   zingico.com    → building it into a community, not just a portfolio
-        modified:   open-source    → moving more of my private work into the open
-        modified:   craft          → going deeper on rust, design, and systems that last
-```
+<img src="assets/toolbox.svg" alt="~/github $ ls ~/toolbox — languages: TypeScript, C#, Rust, Python, SQL · frontend: Vue 3, Angular, Tailwind, Vite · backend: .NET, Axum, Node/Express, MySQL/Postgres, Redis · infra: Docker, nginx, GitHub Actions, MinIO/S3, OpenTelemetry · design: Figma, Blender, Adobe Illustrator/Photoshop/Premiere" width="100%">
 
-### `$ ls ~/toolbox`
-
-```
-languages   TypeScript · C# · Rust · Python · SQL
-frontend    Vue 3 · Angular · Tailwind · Vite
-backend     .NET · Axum · Node/Express · MySQL/Postgres · Redis
-infra       Docker · nginx · GitHub Actions · MinIO/S3 · OpenTelemetry
-design      Figma · Blender · Adobe Illustrator/Photoshop/Premiere
-```
-
-### `$ ls ~/public`
+<img src="assets/sec-public.svg" alt="~/github $ ls ~/public" width="100%">
 
 [**aranea-rete**](https://github.com/DanielOM999/Aranea-Rete) — TF-IDF web search engine in Node/TS/Postgres, with polite crawling\
 [**klp-bank**](https://github.com/DanielOM999/KLP-bank) — banking prototype: accounts, transactions, financial visualization\
@@ -53,14 +37,11 @@ design      Figma · Blender · Adobe Illustrator/Photoshop/Premiere
 
 <sub>The newest work (zingico.com's Rust+Vue engine, jira-mcp, a Chrome extension manager) lives in private repos — public releases are coming.</sub>
 
-### `$ fortune`
-
 <!--fortune-->
-> “People who are really serious about software should make their own hardware.”
-> <sub>— Alan Kay</sub>
+<img src="assets/fortune.svg" alt="fortune: People who are really serious about software should make their own hardware. — Alan Kay" width="100%">
 <!--/fortune-->
 
-### `$ cat ~/.contact`
+<img src="assets/sec-contact.svg" alt="~/github $ cat ~/.contact" width="100%">
 
 Open to collaborating — especially on web platforms, developer tooling, and design-heavy frontends. Reach me through [**zingico.com**](https://zingico.com), where the full experience lives.
 
