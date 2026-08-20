@@ -18,8 +18,8 @@ Fullstack (C#/.NET + Angular) on the platform Norwegian municipalities lean on f
 **jira-mcp — tooling my colleagues actually use.**\
 An MCP server for Jira and Confluence that I designed and built on my own initiative. Developers across Visma run it in their daily workflow. Private, for now.
 
-**Ungdomsbedrift — ~1,500 users and a podium.**\
-Co-founded a student-run company (Ungdomsbedrift) where I wrote every line of the code — a fullstack product, frontend to backend — while teammates ran finances and operations, and I sold it myself on the event floor. We grew to around 1,500 users and took 3rd place at the Fylkesmesterskap in Buskerud for best vocational student company.
+**Ungdomsbedrift — a fullstack product with ~1,500 users.**\
+Co-founded a student-run company (Ungdomsbedrift) as its core developer — I wrote all the code, a fullstack product from frontend to backend, while teammates ran finances and operations, and I helped sell it from our booth at the event. We grew to around 1,500 users and placed 3rd in the yrkesfaglig bedrift category at the Fylkesmesterskap in Buskerud.
 
 **[zingico.com](https://zingico.com) — my site, my stack, my server.**\
 Designed, built, and self-hosted end-to-end: Vue 3 frontend, Rust/Axum backend, MySQL, Redis, nginx — the whole pipeline from Figma to my own infrastructure.
