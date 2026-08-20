@@ -1,4 +1,4 @@
-<img src="assets/header.svg" alt="~/github $ git log --author=daniel — DANIEL spelled in contribution squares. DanielOM999, fullstack developer at Visma. C#/.NET by day, Vue + Rust by night." width="100%">
+<img src="assets/header.svg" alt="~/github $ git log --author=daniel — DANIEL spelled in contribution squares. daniel-mostad, fullstack developer at Visma. C#/.NET by day, Vue + Rust by night." width="100%">
 
 ```diff
 @@ 2024 → 2026 @@
