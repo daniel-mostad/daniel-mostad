@@ -9,20 +9,13 @@
 
 ### `$ cat ~/highlights`
 
-**[Visma InSchool help center](https://inschool.zendesk.com/hc/no) — redesigned end-to-end, live in production.**\
-From the first Figma drafts through user conversations and stakeholder reviews to a new Zendesk Guide theme built from scratch, now serving InSchool's users across Norway.
-
-**Visma Flyt — welfare tech for Norwegian municipalities.**\
-Fullstack on the team (C#/.NET + Angular) — production code, strict reviews, real users with real stakes. Where there's chaos, we help.
-
-**jira-mcp — tooling my colleagues use daily.**\
-An MCP server for Jira and Confluence, designed and built on my own initiative. Private, for now.
-
-**Ungdomsbedrift — ~1,500 users as a student company.**\
-I wrote all the code for our fullstack product while teammates ran finances and operations; we placed 3rd in the vocational category at Buskerud's county championship.
-
-**[zingico.com](https://zingico.com) — my site, my stack, my server.**\
-Vue 3 + Rust/Axum + MySQL/Redis behind nginx — designed, built, and self-hosted end-to-end.
+| | | |
+|---|---|---|
+| **[InSchool help center](https://inschool.zendesk.com/hc/no)** | `in production` | Redesigned end-to-end — Figma drafts, user conversations, stakeholder reviews, new Zendesk theme built from scratch |
+| **Visma Flyt** | `my day job` | Fullstack on the welfare platform Norwegian municipalities rely on — where there's chaos, we help |
+| **jira-mcp** | `used daily` | MCP server for Jira/Confluence I built on my own initiative — colleagues across Visma run it |
+| **Ungdomsbedrift** | `~1,500 users` | Wrote all the code for our student company's product; 3rd in the vocational category at the county championship |
+| **[zingico.com](https://zingico.com)** | `self-hosted` | Vue 3 + Rust/Axum + MySQL/Redis behind nginx — mine from Figma to server |
 
 ### `$ git status`
 
