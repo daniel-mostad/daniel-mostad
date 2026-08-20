@@ -56,8 +56,8 @@ design      Figma · Blender · Adobe Illustrator/Photoshop/Premiere
 ### `$ fortune`
 
 <!--fortune-->
-> “Talk is cheap. Show me the code.”
-> <sub>— Linus Torvalds</sub>
+> “People who are really serious about software should make their own hardware.”
+> <sub>— Alan Kay</sub>
 <!--/fortune-->
 
 ### `$ cat ~/.contact`

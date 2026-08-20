@@ -4,7 +4,9 @@ import { readFileSync, writeFileSync } from 'node:fs'
 
 const quotes = JSON.parse(readFileSync('quotes.json', 'utf8'))
 const day = Math.floor(Date.now() / 86_400_000)
-const q = quotes[day % quotes.length]
+// stride by a prime so consecutive days don't walk the list in order;
+// still visits every quote exactly once per quotes.length days
+const q = quotes[(day * 7919) % quotes.length]
 
 const md = readFileSync('README.md', 'utf8')
 const block = `<!--fortune-->\n> “${q.text}”\n> <sub>— ${q.by}</sub>\n<!--/fortune-->`
