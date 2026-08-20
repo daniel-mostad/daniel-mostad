@@ -44,7 +44,7 @@ design      Figma · Blender · Adobe Illustrator/Photoshop/Premiere
 [**vpn---python**](https://github.com/DanielOM999/VPN---Python) — a VPN from scratch, to understand tunneling instead of trusting it\
 [**rabbidisc**](https://github.com/DanielOM999/RabbiDisc) — bluetooth device discovery and tracking with python/bleak
 
-<sub>The newest work (zingico.com's Rust+Vue engine, jira-mcp, a Chrome extension manager) lives in private repos — public releases are coming.</sub>
+<sub>The newest work lives in private repos — jira-mcp and a Chrome extension manager are headed for public releases.</sub>
 
 <!--fortune-->
 <img src="assets/fortune.svg" alt="fortune: People who are really serious about software should make their own hardware. — Alan Kay" width="100%">
