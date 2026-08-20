@@ -10,7 +10,7 @@
 ### `$ cat ~/highlights`
 
 **[Visma InSchool help center](https://inschool.zendesk.com/hc/no) — redesigned end-to-end, live in production.**\
-I owned the redesign from the first Figma drafts to the shipped product: talked with users, iterated with stakeholders, applied what I learned about UX/UI, and built the entire Zendesk Guide theme from scratch. It now serves InSchool's users across Norway.
+I worked on the redesign from the first Figma drafts to the shipped product — talking with users, iterating with stakeholders, applying what I learned about UX/UI, and building the new Zendesk Guide theme from scratch. It now serves InSchool's users across Norway.
 
 **Visma Flyt — the welfare platform team.**\
 Fullstack (C#/.NET + Angular) on the platform Norwegian municipalities lean on for welfare work — where there's chaos, we help. Production code, strict reviews, real users with real stakes.
