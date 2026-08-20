@@ -24,6 +24,26 @@ Co-founded a student-run company (Ungdomsbedrift) where I wrote every line of th
 **[zingico.com](https://zingico.com) — my site, my stack, my server.**\
 Designed, built, and self-hosted end-to-end: Vue 3 frontend, Rust/Axum backend, MySQL, Redis, nginx — the whole pipeline from Figma to my own infrastructure.
 
+### `$ git status`
+
+```
+On branch 2026
+Changes not staged for commit:
+        modified:   zingico.com      → stronger project showcases, demo-grade videos
+        modified:   jira-mcp         → new tools as colleagues ask for them
+        new file:   aturo            → a Chrome extension manager, being readied for open source
+```
+
+### `$ ls ~/toolbox`
+
+```
+languages   TypeScript · C# · Rust · Python · SQL
+frontend    Vue 3 · Angular · Tailwind · Vite
+backend     .NET · Axum · Node/Express · MySQL/Postgres · Redis
+infra       Docker · nginx · GitHub Actions · MinIO/S3 · OpenTelemetry
+design      Figma · Blender · Adobe Illustrator/Photoshop/Premiere
+```
+
 ### `$ ls ~/public`
 
 [**aranea-rete**](https://github.com/DanielOM999/Aranea-Rete) — TF-IDF web search engine in Node/TS/Postgres, with polite crawling\
@@ -35,6 +55,6 @@ Designed, built, and self-hosted end-to-end: Vue 3 frontend, Rust/Axum backend, 
 
 ### `$ cat ~/.contact`
 
-The full experience lives at [**zingico.com**](https://zingico.com).
+Open to collaborating — especially on web platforms, developer tooling, and design-heavy frontends. Reach me through [**zingico.com**](https://zingico.com), where the full experience lives.
 
 <sub><code>0000001 (root-commit)</code> — I create because I have to.</sub>
