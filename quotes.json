@@ -1,0 +1,17 @@
+[
+  { "text": "Talk is cheap. Show me the code.", "by": "Linus Torvalds" },
+  { "text": "Simplicity is prerequisite for reliability.", "by": "Edsger W. Dijkstra" },
+  { "text": "Make it work, make it right, make it fast.", "by": "Kent Beck" },
+  { "text": "Programs must be written for people to read, and only incidentally for machines to execute.", "by": "Harold Abelson" },
+  { "text": "First, solve the problem. Then, write the code.", "by": "John Johnson" },
+  { "text": "Deleted code is debugged code.", "by": "Jeff Sickel" },
+  { "text": "The best error message is the one that never shows up.", "by": "Thomas Fuchs" },
+  { "text": "Weeks of coding can save you hours of planning.", "by": "unknown" },
+  { "text": "Premature optimization is the root of all evil.", "by": "Donald Knuth" },
+  { "text": "The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.", "by": "Brian Kernighan" },
+  { "text": "Good design is as little design as possible.", "by": "Dieter Rams" },
+  { "text": "The details are not the details. They make the design.", "by": "Charles Eames" },
+  { "text": "A ship in port is safe, but that is not what ships are built for.", "by": "Grace Hopper" },
+  { "text": "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.", "by": "Antoine de Saint-Exupéry" },
+  { "text": "Code is like humor. When you have to explain it, it's bad.", "by": "Cory House" }
+]

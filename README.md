@@ -27,11 +27,11 @@ Designed, built, and self-hosted end-to-end: Vue 3 frontend, Rust/Axum backend, 
 ### `$ git status`
 
 ```
-On branch 2026
+On branch now
 Changes not staged for commit:
-        modified:   zingico.com      → stronger project showcases, demo-grade videos
-        modified:   jira-mcp         → new tools as colleagues ask for them
-        new file:   aturo            → a Chrome extension manager, being readied for open source
+        modified:   zingico.com    → building it into a community, not just a portfolio
+        modified:   open-source    → moving more of my private work into the open
+        modified:   craft          → going deeper on rust, design, and systems that last
 ```
 
 ### `$ ls ~/toolbox`
@@ -52,6 +52,13 @@ design      Figma · Blender · Adobe Illustrator/Photoshop/Premiere
 [**rabbidisc**](https://github.com/DanielOM999/RabbiDisc) — bluetooth device discovery and tracking with python/bleak
 
 <sub>The newest work (zingico.com's Rust+Vue engine, jira-mcp, a Chrome extension manager) lives in private repos — public releases are coming.</sub>
+
+### `$ fortune`
+
+<!--fortune-->
+> “Talk is cheap. Show me the code.”
+> <sub>— Linus Torvalds</sub>
+<!--/fortune-->
 
 ### `$ cat ~/.contact`
 
