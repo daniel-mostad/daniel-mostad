@@ -39,10 +39,10 @@ design      Figma · Blender · Adobe Illustrator/Photoshop/Premiere
 
 ### `$ ls ~/public`
 
-[**aranea-rete**](https://github.com/DanielOM999/Aranea-Rete) — TF-IDF web search engine in Node/TS/Postgres, with polite crawling\
-[**klp-bank**](https://github.com/DanielOM999/KLP-bank) — banking prototype: accounts, transactions, financial visualization\
-[**vpn---python**](https://github.com/DanielOM999/VPN---Python) — a VPN from scratch, to understand tunneling instead of trusting it\
-[**rabbidisc**](https://github.com/DanielOM999/RabbiDisc) — bluetooth device discovery and tracking with python/bleak
+[**aranea-rete**](https://github.com/daniel-mostad/Aranea-Rete) — TF-IDF web search engine in Node/TS/Postgres, with polite crawling\
+[**klp-bank**](https://github.com/daniel-mostad/KLP-bank) — banking prototype: accounts, transactions, financial visualization\
+[**vpn---python**](https://github.com/daniel-mostad/VPN---Python) — a VPN from scratch, to understand tunneling instead of trusting it\
+[**rabbidisc**](https://github.com/daniel-mostad/RabbiDisc) — bluetooth device discovery and tracking with python/bleak
 
 <sub>The newest work lives in private repos — a family of Chrome extensions is headed for public releases.</sub>
 
