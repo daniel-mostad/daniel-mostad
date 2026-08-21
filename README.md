@@ -47,7 +47,7 @@ design      Figma · Blender · Adobe Illustrator/Photoshop/Premiere
 <sub>The newest work lives in private repos — a family of Chrome extensions is headed for public releases.</sub>
 
 <!--fortune-->
-<img src="assets/fortune.svg" alt="fortune: People who are really serious about software should make their own hardware. — Alan Kay" width="100%">
+<img src="assets/fortune.svg" alt="fortune: Truth can only be found in one place: the code. — Robert C. Martin" width="100%">
 <!--/fortune-->
 
 Open to collaborating — especially on web platforms, developer tooling, and design-heavy frontends. Reach me through [**zingico.com**](https://zingico.com), where the full experience lives.
