@@ -1,13 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 154" width="880" height="154" role="img" aria-label="fortune: The scientist builds in order to study; the engineer studies in order to build. — Fred Brooks">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 127" width="880" height="127" role="img" aria-label="fortune: I'm not a great programmer; I'm just a good programmer with great habits. — Kent Beck">
   <style>
     text { font-family: ui-monospace, 'Cascadia Mono', Consolas, Menlo, monospace; }
     .reveal { opacity: 0; animation: fade .7s ease forwards; }
     @keyframes fade { to { opacity: 1; } }
     @media (prefers-reduced-motion: reduce) { .reveal { animation: none; opacity: 1; } }
   </style>
-  <rect x="1" y="1" width="878" height="152" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <rect x="1" y="1" width="878" height="125" rx="12" fill="#0d1117" stroke="#30363d"/>
   <text x="38" y="42" font-size="15"><tspan fill="#39d353">~/github</tspan><tspan fill="#484f58">&#160;$&#160;</tspan><tspan fill="#e6edf2">fortune</tspan></text>
-  <g class="reveal" style="animation-delay:0.25s"><text x="38" y="76" font-size="15" font-style="italic" fill="#e6edf2"><tspan fill="#39d353">“</tspan>The scientist builds in order to study; the engineer studies in order to</text></g>
-  <g class="reveal" style="animation-delay:0.40s"><text x="38" y="103" font-size="15" font-style="italic" fill="#e6edf2">build.<tspan fill="#39d353">”</tspan></text></g>
-  <g class="reveal" style="animation-delay:0.55s"><text x="56" y="130" font-size="14" fill="#8b949e">— Fred Brooks</text></g>
+  <g class="reveal" style="animation-delay:0.25s"><text x="38" y="76" font-size="15" font-style="italic" fill="#e6edf2"><tspan fill="#39d353">“</tspan>I'm not a great programmer; I'm just a good programmer with great habits.<tspan fill="#39d353">”</tspan></text></g>
+  <g class="reveal" style="animation-delay:0.40s"><text x="56" y="103" font-size="14" fill="#8b949e">— Kent Beck</text></g>
 </svg>
