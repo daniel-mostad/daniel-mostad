@@ -47,7 +47,7 @@ design      Figma · Blender · Adobe Illustrator/Photoshop/Premiere
 <sub>The newest work lives in private repos — a family of Chrome extensions is headed for public releases.</sub>
 
 <!--fortune-->
-<img src="assets/fortune.svg" alt="fortune: Beware of bugs in the above code; I have only proved it correct, not tried it. — Donald Knuth" width="100%">
+<img src="assets/fortune.svg" alt="fortune: Once a new technology rolls over you, if you're not part of the steamroller, you're part of the road. — Stewart Brand" width="100%">
 <!--/fortune-->
 
 Open to collaborating — especially on web platforms, developer tooling, and design-heavy frontends. Reach me through [**zingico.com**](https://zingico.com), where the full experience lives.
