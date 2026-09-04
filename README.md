@@ -47,7 +47,7 @@ design      Figma · Blender · Adobe Illustrator/Photoshop/Premiere
 <sub>The newest work lives in private repos — a family of Chrome extensions is headed for public releases.</sub>
 
 <!--fortune-->
-<img src="assets/fortune.svg" alt="fortune: Controlling complexity is the essence of computer programming. — Brian Kernighan" width="100%">
+<img src="assets/fortune.svg" alt="fortune: Elegance is not a dispensable luxury but a factor that decides between success and failure. — Edsger W. Dijkstra" width="100%">
 <!--/fortune-->
 
 Open to collaborating — especially on web platforms, developer tooling, and design-heavy frontends. Reach me through [**zingico.com**](https://zingico.com), where the full experience lives.
