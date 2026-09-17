@@ -47,7 +47,7 @@ design      Figma · Blender · Adobe Illustrator/Photoshop/Premiere
 <sub>The newest work lives in private repos — a family of Chrome extensions is headed for public releases.</sub>
 
 <!--fortune-->
-<img src="assets/fortune.svg" alt="fortune: Never trust a computer you can't throw out a window. — Steve Wozniak" width="100%">
+<img src="assets/fortune.svg" alt="fortune: The competent programmer is fully aware of the strictly limited size of his own skull. — Edsger W. Dijkstra" width="100%">
 <!--/fortune-->
 
 Open to collaborating — especially on web platforms, developer tooling, and design-heavy frontends. Reach me through [**zingico.com**](https://zingico.com), where the full experience lives.
