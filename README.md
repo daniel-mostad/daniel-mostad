@@ -47,7 +47,7 @@ design      Figma · Blender · Adobe Illustrator/Photoshop/Premiere
 <sub>The newest work lives in private repos — a family of Chrome extensions is headed for public releases.</sub>
 
 <!--fortune-->
-<img src="assets/fortune.svg" alt="fortune: Rules of optimization: Rule 1: Don't do it. Rule 2 (for experts only): Don't do it yet. — Michael A. Jackson" width="100%">
+<img src="assets/fortune.svg" alt="fortune: Any sufficiently advanced technology is indistinguishable from magic. — Arthur C. Clarke" width="100%">
 <!--/fortune-->
 
 Open to collaborating — especially on web platforms, developer tooling, and design-heavy frontends. Reach me through [**zingico.com**](https://zingico.com), where the full experience lives.
