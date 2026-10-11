@@ -47,7 +47,7 @@ design      Figma · Blender · Adobe Illustrator/Photoshop/Premiere
 <sub>The newest work lives in private repos — a family of Chrome extensions is headed for public releases.</sub>
 
 <!--fortune-->
-<img src="assets/fortune.svg" alt="fortune: We build our computer systems the way we build our cities: over time, without a plan, on top of ruins. — Ellen Ullman" width="100%">
+<img src="assets/fortune.svg" alt="fortune: Simplicity is the soul of efficiency. — Austin Freeman" width="100%">
 <!--/fortune-->
 
 Open to collaborating — especially on web platforms, developer tooling, and design-heavy frontends. Reach me through [**zingico.com**](https://zingico.com), where the full experience lives.
