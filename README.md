@@ -47,7 +47,7 @@ design      Figma · Blender · Adobe Illustrator/Photoshop/Premiere
 <sub>The newest work lives in private repos — a family of Chrome extensions is headed for public releases.</sub>
 
 <!--fortune-->
-<img src="assets/fortune.svg" alt="fortune: Adding manpower to a late software project makes it later. — Fred Brooks" width="100%">
+<img src="assets/fortune.svg" alt="fortune: The trouble with programmers is that you can never tell what a programmer is doing until it's too late. — Seymour Cray" width="100%">
 <!--/fortune-->
 
 Open to collaborating — especially on web platforms, developer tooling, and design-heavy frontends. Reach me through [**zingico.com**](https://zingico.com), where the full experience lives.
