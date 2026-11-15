@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 154" width="880" height="154" role="img" aria-label="fortune: The advance of technology is based on making it fit in so that you don't really even notice it, so it's part of everyday life. — Bill Gates">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 154" width="880" height="154" role="img" aria-label="fortune: Any fool can write code that a computer can understand. Good programmers write code that humans can understand. — Martin Fowler">
   <style>
     text { font-family: ui-monospace, 'Cascadia Mono', Consolas, Menlo, monospace; }
     .reveal { opacity: 0; animation: fade .7s ease forwards; }
@@ -7,7 +7,7 @@
   </style>
   <rect x="1" y="1" width="878" height="152" rx="12" fill="#0d1117" stroke="#30363d"/>
   <text x="38" y="42" font-size="15"><tspan fill="#39d353">~/github</tspan><tspan fill="#484f58">&#160;$&#160;</tspan><tspan fill="#e6edf2">fortune</tspan></text>
-  <g class="reveal" style="animation-delay:0.25s"><text x="38" y="76" font-size="15" font-style="italic" fill="#e6edf2"><tspan fill="#39d353">“</tspan>The advance of technology is based on making it fit in so that you don't</text></g>
-  <g class="reveal" style="animation-delay:0.40s"><text x="38" y="103" font-size="15" font-style="italic" fill="#e6edf2">really even notice it, so it's part of everyday life.<tspan fill="#39d353">”</tspan></text></g>
-  <g class="reveal" style="animation-delay:0.55s"><text x="56" y="130" font-size="14" fill="#8b949e">— Bill Gates</text></g>
+  <g class="reveal" style="animation-delay:0.25s"><text x="38" y="76" font-size="15" font-style="italic" fill="#e6edf2"><tspan fill="#39d353">“</tspan>Any fool can write code that a computer can understand. Good programmers</text></g>
+  <g class="reveal" style="animation-delay:0.40s"><text x="38" y="103" font-size="15" font-style="italic" fill="#e6edf2">write code that humans can understand.<tspan fill="#39d353">”</tspan></text></g>
+  <g class="reveal" style="animation-delay:0.55s"><text x="56" y="130" font-size="14" fill="#8b949e">— Martin Fowler</text></g>
 </svg>
