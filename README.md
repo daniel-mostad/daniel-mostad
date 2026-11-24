@@ -47,7 +47,7 @@ design      Figma · Blender · Adobe Illustrator/Photoshop/Premiere
 <sub>The newest work lives in private repos — a family of Chrome extensions is headed for public releases.</sub>
 
 <!--fortune-->
-<img src="assets/fortune.svg" alt="fortune: Don't comment bad code — rewrite it. — Kernighan &amp; Plauger" width="100%">
+<img src="assets/fortune.svg" alt="fortune: Measuring programming progress by lines of code is like measuring aircraft building progress by weight. — Bill Gates" width="100%">
 <!--/fortune-->
 
 Open to collaborating — especially on web platforms, developer tooling, and design-heavy frontends. Reach me through [**zingico.com**](https://zingico.com), where the full experience lives.
